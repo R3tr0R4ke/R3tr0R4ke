@@ -10,7 +10,6 @@
   </a>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href='https://www.instagram.com/fede_rake/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&labelColor=E69811&color=EBA42E'/></a>
+  <a href='https://www.instagram.com/fede_rake/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the    badge&logo=Instagram&logoColor=FFFFFF&labelColor=FFA200&color=FEA001'/></a>
 </div>
 
