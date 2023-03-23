@@ -8,8 +8,12 @@
   <a href="https://www.linkedin.com/in/cesare-federico-sgaramella/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <a href='https://www.instagram.com/fede_rake/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&labelColor=FFA200&color=FEA001'/></a>
+  
+  <a href='https://discord.gg/D22P4qr3DM' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=FFFFFF&labelColor=017DFF&color=017DFF'/>
+  </a>
+  
+  <a href='https://www.instagram.com/fede_rake/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&labelColor=FFA200&color=FEA001'/>
+  </a>
 </div>
 
+ 
