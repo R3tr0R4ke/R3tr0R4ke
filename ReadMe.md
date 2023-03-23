@@ -13,7 +13,9 @@
     <img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&labelColor=FFA200&color=FEA001'/>
   </a>
   
-  <a href='https://mail.google.com/mail/u/?authuser=federico.sgaramella12@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&labelColor=EB7F17&color=EB7F17'/></a>
+  <a href='mailto: federico.sgaramella12@gmail.com' target="_blank">
+    <img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&labelColor=EB7F17&color=EB7F17'/>
+  </a>
   
   <a href='https://discord.gg/D22P4qr3DM' target="_blank">
     <img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=FFFFFF&labelColor=017DFF&color=017DFF'/>
