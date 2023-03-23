@@ -25,3 +25,6 @@
 <div id="badges" align= "center">
   <img src="https://komarev.com/ghpvc/?username=R3tr0R4ke&style=flat-square&color=blue" alt=""/>
 </div>
+<br>
+---
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
