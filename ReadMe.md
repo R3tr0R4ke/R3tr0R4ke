@@ -18,4 +18,6 @@
   </a>
 </div>
 
- 
+<div>
+  <img src="https://komarev.com/ghpvc/?username=R3tr0R4ke&style=flat-square&color=blue" alt=""/>
+</div>
