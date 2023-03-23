@@ -31,7 +31,7 @@
 ### :man_technologist: About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
 
-- ⌨️: I’m a student at University of Bari Aldo Moro, interested to expand my personal culture in the IT field.
+- ⌨️: Hi there, my name is Sgaramella Federico and i’m a student at University of Bari Aldo Moro, interested to expand my personal culture in the IT field.
 
 - 🤖: Currently learning new programm languages and some Ethical Hacking stuff.
 
