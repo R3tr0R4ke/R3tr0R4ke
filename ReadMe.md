@@ -15,3 +15,4 @@
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagramr&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&labelColor=E69811&color=EBA42E'/></a>
