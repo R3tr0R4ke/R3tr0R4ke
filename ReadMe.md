@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="100"/>
 </div>
 <div id="badges" align = "center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/cesare-federico-sgaramella/)">
+  <a href="https://www.linkedin.com/in/cesare-federico-sgaramella/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-linkedin-URL">
